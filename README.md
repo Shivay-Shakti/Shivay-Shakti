@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Shivay
 =====================================================================================================================================
 
-Product Data Scientist
+A Product Data Scientist & Teaching Assistant @Stanford
 ----------------------
 
 Data Science professional and instructor with experience in the consulting, marketing, media and SaaS industries. Skilled in large language models (LLMs), generative AI, data engineering, analyzing large datasets, developing predictive models, and deploying machine learning solutions for real-world use cases.
