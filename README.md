@@ -1,10 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivay Shakti
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Shivay
 =====================================================================================================================================
 
 Product Data Scientist
 ----------------------
 
-Data Science professional and instructor with experience in the consulting, marketing, media and SaaS industries. Skilled in large language models (LLMs), generative AI, data engineering, analyzing large datasets, developing predictive models, and deploying machine learning solutions for real-world use cases. Here are some tools and technologies that I'm proficient in: \* Python for data analysis, modeling, and machine learning \* SQL for data manipulation and querying \* Cloud computing platforms such as Google Cloud Platform and Amazon Web Services \* Big data technologies like Hadoop and Spark \* Visualization tools such as Tableau, Power BI, and Google Data Studio Some of the ML and deep learning algorithms that I've worked with using libraries like Sklearn Pytorch, TensorFlow: \* Linear regression, logistic regression, decision trees, and random forests \* Clustering algorithms such as k-means and hierarchical clustering \* Neural networks, convolutional neural networks, and recurrent neural networks Some of the NLP techniques that I've worked with include: \* Text preprocessing techniques such as tokenization, stemming, and lemmatization \* Sentiment analysis to determine the emotional tone of the text \* Named entity recognition to identify entities such as people, organizations, and locations \* Topic modeling to identify themes and topics within a corpus of text \* Word embeddings & text classification using techniques such as TF-IDF, Bag of Words, and Word2Vec I'm also experienced in designing and conducting A/B tests to measure the effectiveness of different strategies and interventions. In addition to my technical skills, I'm also an effective communicator and enjoy collaborating with cross-functional teams to deliver impactful solutions.
+Data Science professional and instructor with experience in the consulting, marketing, media and SaaS industries. Skilled in large language models (LLMs), generative AI, data engineering, analyzing large datasets, developing predictive models, and deploying machine learning solutions for real-world use cases.
+
+Here are some tools and technologies that I'm proficient in:
+
+* Python for data analysis, modeling, and machine learning
+* SQL for data manipulation and querying
+* Cloud computing platforms such as Google Cloud Platform and Amazon Web Services
+* Big data technologies like Hadoop and Spark
+* Visualization tools such as Tableau, Power BI, and Google Data Studio
+
+Some of the ML and deep learning algorithms that I've worked with using libraries like Sklearn, Pytorch, TensorFlow:
+
+* Linear regression, logistic regression, decision trees, and random forests
+* Clustering algorithms such as k-means and hierarchical clustering
+* Neural networks, convolutional neural networks, and recurrent neural networks
+
+Some of the NLP techniques that I've worked with include:
+
+* Text preprocessing techniques such as tokenization, stemming, and lemmatization
+* Sentiment analysis to determine the emotional tone of the text
+* Named entity recognition to identify entities such as people, organizations, and locations
+* Topic modeling to identify themes and topics within a corpus of text
+* Word embeddings & text classification using techniques such as TF-IDF, Bag of Words, and Word2Vec
+
+I'm also experienced in designing and conducting A/B tests to measure the effectiveness of different strategies and interventions. In addition to my technical skills, I'm also an effective communicator and enjoy collaborating with cross-functional teams to deliver impactful solutions.
+
 
 ### Skills
 
