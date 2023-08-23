@@ -4,7 +4,7 @@ Greetings ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 A Product Data Scientist & Teaching Assistant @Stanford
 ----------------------
 
-Published Data Science professional and mentor with experience in the consulting, marketing, media and SaaS industries. Skilled in large language models (LLMs), generative AI, data engineering, analyzing large datasets, developing predictive models, and deploying machine learning solutions for real-world use cases.
+Published Data Science professional and a Kaggle X (owned by Google) mentor with experience in the consulting, marketing, media and SaaS industries. Skilled in large language models (LLMs), generative AI, data engineering, analyzing large datasets, developing predictive models, and deploying machine learning solutions for real-world use cases.
 
 Here are some tools and technologies that I'm proficient in:
 
